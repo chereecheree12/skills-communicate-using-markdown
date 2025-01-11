@@ -13,3 +13,5 @@ var myVar = "Hello, world!";
 - [ ] Turn on GitHub Pages
 - [ ] Outline by portfolio
 - [ ] Introduce myself to the world
+
+git pull <remote>
